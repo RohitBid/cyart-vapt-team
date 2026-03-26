@@ -19,7 +19,7 @@ Command Used: nmap -sV -sC -A -T4 -oN nmap_report.txt 10.236.92.45
 
 ## Open Ports & Services
 
-![Nmap Scan Results](screenshots/nmap_scans.png)
+![Nmap Scan Results](screenshots/nmap_scan.png)
 
 
 
