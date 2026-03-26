@@ -18,7 +18,7 @@ High-risk vulnerabilities included:
 - Cross-Site Request Forgery (CSRF)
 - Cross-Site Scripting (XSS)
 
-Successful exploitation of these vulnerabilities allowed the tester to gain unauthorized access, execute system commands, retrieve sensitive data (e.g., `/etc/passwd`), and demonstrate full system compromise :contentReference[oaicite:0]{index=0}.
+Successful exploitation of these vulnerabilities allowed the tester to gain unauthorized access, execute system commands, retrieve sensitive data (e.g., `/etc/passwd`), and demonstrate full system compromise.
 
 Overall, the security posture of the application is **weak and highly vulnerable to attack**. Immediate remediation is required for critical and high-risk findings to prevent exploitation by malicious actors.
 
