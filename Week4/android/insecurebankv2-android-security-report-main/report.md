@@ -927,12 +927,4 @@ CVSS:4.0/AV:L/AC:L/AT:N/PR:N/UI:N/VC:N/VI:L/VA:N/SC:N/SI:N/SA:N
 - Ensure that feature toggles are properly secured and inaccessible through simple code modification or reverse engineering.
 - Regularly audit the application for the presence of unintended features or code paths that should not be accessible in production environments.
 
----
-**Author: Pedro Coelho** 
 
-CESAR School  
-Specialization in Cybersecurity  
-Mobile Application Security Course  
-Instructor: Erick Nascimento  
-
-Recife, 2024
